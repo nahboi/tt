@@ -1,5 +1,5 @@
-# Toontown Stride: CI
+# Toontown Stride
 - A build of Toontown Stride, that just works.
 
 ## Note:
-- Trying to use github actions to build a toontown stride client
+- Something i guess im trying to do.
